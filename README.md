@@ -1,4 +1,4 @@
-# SYNFAD: A Novel SDN-Enabled Framework for Adaptive Protection against Complex SYN Flooding Attacks in IoT Networks
+# SYNFAD: An Adaptive Multi-Layer Fusion Framework for Complex SYN Flood Mitigation in Software-Defined IoT Networks
 
 This repository contains the source code, configuration files, and documentation for SYNFAD, a novel SDN-enabled framework designed to provide adaptive protection against complex SYN flooding attacks in IoT networks. SYNFAD integrates multiple layers of detection and mitigation, leveraging P4-enabled switches and intelligent control plane algorithms.
 
